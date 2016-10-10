@@ -19,3 +19,11 @@ Design Pattern one `PatternTwo.java`
   **
    *
 ```
+Design Pattern one `PatternThree.java`
+
+```
+   *
+  **
+ ***
+****
+```
