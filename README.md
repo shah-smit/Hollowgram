@@ -10,3 +10,12 @@
 *   *
 *****
 ```
+
+## Design Pattern one `PatternTwo.java`
+
+```
+****
+ ***
+  **
+   *
+```
