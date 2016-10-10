@@ -1,7 +1,8 @@
 # Hollowgram
 
 
-## * at the all the end
+## Design Pattern one `DesignPatternOne.java`
+
 ```
 *****
 *   *
