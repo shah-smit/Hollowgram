@@ -11,7 +11,7 @@ Design Pattern one `PatternOne.java`
 *****
 ```
 
-Design Pattern one `PatternTwo.java`
+Design Pattern `PatternTwo.java`
 
 ```
 ****
@@ -19,11 +19,19 @@ Design Pattern one `PatternTwo.java`
   **
    *
 ```
-Design Pattern one `PatternThree.java`
+Design Pattern `PatternThree.java`
 
 ```
    *
   **
  ***
 ****
+```
+
+Design Pattern `PatternFour.java`
+```
+   *
+  ***
+ *****
+*******
 ```
