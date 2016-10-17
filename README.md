@@ -1,5 +1,18 @@
 # Hollowgram
 
+Design Pattern `HallowDiamond.java`
+```
+Enter any height: 5
+    *    
+   * *   
+  *   *  
+ *     * 
+*       *
+ *     * 
+  *   *  
+   * *   
+    *    
+```
 
 Design Pattern one `PatternOne.java`
 
@@ -36,16 +49,27 @@ Design Pattern `PatternFour.java`
 *******
 ```
 
-Design Pattern `HallowDiamond.java`
+Design Pattern `PatternFive.java`
 ```
-Enter any height: 5
-    *    
-   * *   
-  *   *  
- *     * 
-*       *
- *     * 
-  *   *  
-   * *   
-    *    
+          *
+         ***
+        *****
+       *******
+      *********
+     ***********
+    *************
+   ***************
+  *****************
+ *******************
+*********************
+ *******************
+  *****************
+   ***************
+    *************
+     ***********
+      *********
+       *******
+        *****
+         ***
+          *
 ```
