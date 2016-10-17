@@ -14,6 +14,16 @@ Enter any height: 5
     *    
 ```
 
+Design Patter `HalfHollowDiamond.java`
+```
+     *
+    * *
+   *   *
+  *     *
+ *       *
+*         *
+```
+
 Design Pattern one `PatternOne.java`
 
 ```
