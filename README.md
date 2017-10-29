@@ -71,3 +71,6 @@ Design Pattern `PatternFive.java`
    ***
     *
 ```
+
+### Contributors:
+- (Smit)[https://github.com/shah-smit]
