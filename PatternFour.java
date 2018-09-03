@@ -1,6 +1,6 @@
 package com.tutorial.five;
 
-public class PatternThree {
+public class PatternFour {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
