@@ -1,5 +1,5 @@
 # Hollowgram
-
+Different patterns than can be created using Java and Nested `For Loops`
 Design Pattern `HallowDiamond.java`
 ```
 Enter any height: 5
@@ -14,7 +14,7 @@ Enter any height: 5
     *    
 ```
 
-Design Patter `HalfHollowDiamond.java`
+Design Pattern `HalfHollowDiamond.java`
 ```
      *
     * *
