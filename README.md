@@ -1,5 +1,5 @@
 # Hollowgram
-Different patterns than can be created using Java and Nested `For Loops` and `While Loops`
+Different patterns than can be created using Java and nested `For` and `While` loops.
 
 
 Design Pattern `HallowDiamond.java`
